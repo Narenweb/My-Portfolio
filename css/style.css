@@ -233,7 +233,8 @@ h2{
   width:122%;
   background-color:#000000;
   position: absolute;
-  top:80%;
+/*   top:80%; */
+  margin-top:670px;
 
 }
 
